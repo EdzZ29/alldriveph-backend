@@ -1,0 +1,21 @@
+# compiled output
+/dist
+/node_modules
+
+# Logs
+*.log
+
+# Tests
+/coverage
+
+# IDEs
+/.idea
+.vscode/*
+!.vscode/settings.json
+
+# environment
+.env
+
+# uploaded images
+media/*
+!media/.gitkeep
